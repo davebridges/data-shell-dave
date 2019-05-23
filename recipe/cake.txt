@@ -3,4 +3,3 @@ flour
 sugar
 milk
 eggs
-chocolate chipa
